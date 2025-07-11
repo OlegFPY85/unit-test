@@ -7,6 +7,6 @@ Function to determine character health status.
 ## Usage
 
 ```javascript
-import healthIndicator from './health';
+import healthIndicator from 'src/health';
 
 healthIndicator({ name: 'Маг', health: 90 }); // 'healthy'
